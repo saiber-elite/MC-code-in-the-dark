@@ -10,3 +10,8 @@ when build the project add the challenge folder with the build :
 like this .
 
 if u wanna change anything change only challenge1 and challenge2 assets 
+
+
+Important :
+
+if u want to add the designer page , just uncomment the code and modifie the code in code1.js and code2.js or contact me
